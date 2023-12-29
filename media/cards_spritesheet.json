@@ -1,0 +1,1775 @@
+{
+	"frames": {
+		"0001.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Pearl Purity",
+			"description": "Luminescent and pure, like a perfectly formed pearl"
+		},
+		"0003.png": {
+			"frame": {
+				"x": 1436,
+				"y": 1,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Cotton Candy Pink",
+			"description": "Soft and sweet, reminiscent of a carnival treat"
+		},
+		"0004.png": {
+			"frame": {
+				"x": 2871,
+				"y": 1,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0005.png": {
+			"frame": {
+				"x": 4306,
+				"y": 1,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Sunset Salmon",
+			"description": "A warm, soothing hue like the glow of a sunset"
+		},
+		"0006.png": {
+			"frame": {
+				"x": 5741,
+				"y": 1,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Cherry Blossom Blush",
+			"description": "Soft and ethereal, like cherry blossoms in spring"
+		},
+		"0009.png": {
+			"frame": {
+				"x": 7176,
+				"y": 1,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Opal Overture",
+			"description": "Shimmering and iridescent, like the play of colors in an opal"
+		},
+		"0011.png": {
+			"frame": {
+				"x": 8611,
+				"y": 1,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Ruby Red Radiance",
+			"description": "A card ablaze with the intensity of a precious gem"
+		},
+		"0019.png": {
+			"frame": {
+				"x": 10046,
+				"y": 1,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Auburn Aurora",
+			"description": "A warm and fiery display, like the colors of an aurora"
+		},
+		"0023.png": {
+			"frame": {
+				"x": 11481,
+				"y": 1,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Apricot Ambiance",
+			"description": "Warm and inviting, like the color of apricots"
+		},
+		"0024.png": {
+			"frame": {
+				"x": 12916,
+				"y": 1,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Forest Fire",
+			"description": "A card ablaze with the intense hues of a forest fire"
+		},
+		"0027.png": {
+			"frame": {
+				"x": 1,
+				"y": 2003,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Platinum Plume",
+			"description": "Silvery and elegant, like the plume of a silver feather"
+		},
+		"0028.png": {
+			"frame": {
+				"x": 1436,
+				"y": 2003,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Crimson Cascade",
+			"description": "A cascade of bold and captivating crimson"
+		},
+		"0029.png": {
+			"frame": {
+				"x": 2871,
+				"y": 2003,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Crimson Crystal",
+			"description": "Bold and crystalline, like the allure of crimson gems"
+		},
+		"0030.png": {
+			"frame": {
+				"x": 4306,
+				"y": 2003,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Sunrise Sienna",
+			"description": "A warm and earthy sunrise, like sienna tones at dawn"
+		},
+		"0031.png": {
+			"frame": {
+				"x": 5741,
+				"y": 2003,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Copper Charm",
+			"description": "Bold and charming, like the allure of copper"
+		},
+		"0032.png": {
+			"frame": {
+				"x": 7176,
+				"y": 2003,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Golden Grove",
+			"description": "Radiant and warm, like the hues of a golden grove"
+		},
+		"0037.png": {
+			"frame": {
+				"x": 8611,
+				"y": 2003,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Saffron Serenity",
+			"description": "A soothing hue, like the color of saffron at rest"
+		},
+		"0038.png": {
+			"frame": {
+				"x": 10046,
+				"y": 2003,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Golden Grape",
+			"description": "Rich and golden, like the hue of ripe grapes"
+		},
+		"0039.png": {
+			"frame": {
+				"x": 11481,
+				"y": 2003,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Mango Mist",
+			"description": "Tropical and misty, like the vibrant hue of ripe mangoes"
+		},
+		"0041.png": {
+			"frame": {
+				"x": 12916,
+				"y": 2003,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Tawny Twilight",
+			"description": "A card that captures the warm tones of twilight"
+		},
+		"0044.png": {
+			"frame": {
+				"x": 1,
+				"y": 4005,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Honeydew Harmony",
+			"description": "Soft and sweet, like the color of honeydew melons"
+		},
+		"0051.png": {
+			"frame": {
+				"x": 1436,
+				"y": 4005,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Frosty Fern",
+			"description": "Cool and crisp, like the frost on fern leaves"
+		},
+		"0055.png": {
+			"frame": {
+				"x": 2871,
+				"y": 4005,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Emerald Enchantment",
+			"description": "A card that echoes the magic of lush green landscapes"
+		},
+		"0061.png": {
+			"frame": {
+				"x": 4306,
+				"y": 4005,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Peridot Perfection",
+			"description": "Bright and lively, like the green of a peridot gem"
+		},
+		"0062.png": {
+			"frame": {
+				"x": 5741,
+				"y": 4005,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Cerulean Charm",
+			"description": "Cool and charming, like a cerulean-hued day"
+		},
+		"0063.png": {
+			"frame": {
+				"x": 7176,
+				"y": 4005,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Cobalt Cascade",
+			"description": "A cascade of intense and vivid cobalt blue"
+		},
+		"0065.png": {
+			"frame": {
+				"x": 8611,
+				"y": 4005,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Skyline Sapphire",
+			"description": "A card that echoes the deep blue of a city skyline"
+		},
+		"0066.png": {
+			"frame": {
+				"x": 10046,
+				"y": 4005,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Mint Mirage",
+			"description": "A refreshing mirage of minty coolness"
+		},
+		"0067.png": {
+			"frame": {
+				"x": 11481,
+				"y": 4005,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Aqua Alchemy",
+			"description": "A card that captures the magical essence of aqua"
+		},
+		"0068.png": {
+			"frame": {
+				"x": 12916,
+				"y": 4005,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Teal Temptation",
+			"description": "Temptingly vibrant, like the allure of teal"
+		},
+		"0069.png": {
+			"frame": {
+				"x": 1,
+				"y": 6007,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Cobalt Clouds",
+			"description": "A card that mirrors the intensity of cobalt blue skies"
+		},
+		"0070.png": {
+			"frame": {
+				"x": 1436,
+				"y": 6007,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Peacock Blue",
+			"description": "Rich and vibrant, like the feathers of a peacock"
+		},
+		"0072.png": {
+			"frame": {
+				"x": 2871,
+				"y": 6007,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Midnight Mystique",
+			"description": "Dark and mysterious, like the depths of the night"
+		},
+		"0073.png": {
+			"frame": {
+				"x": 4306,
+				"y": 6007,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0075.png": {
+			"frame": {
+				"x": 5741,
+				"y": 6007,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0077.png": {
+			"frame": {
+				"x": 7176,
+				"y": 6007,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0080.png": {
+			"frame": {
+				"x": 8611,
+				"y": 6007,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0081.png": {
+			"frame": {
+				"x": 10046,
+				"y": 6007,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0083.png": {
+			"frame": {
+				"x": 11481,
+				"y": 6007,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0085.png": {
+			"frame": {
+				"x": 12916,
+				"y": 6007,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0086.png": {
+			"frame": {
+				"x": 1,
+				"y": 8009,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0087.png": {
+			"frame": {
+				"x": 1436,
+				"y": 8009,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0088.png": {
+			"frame": {
+				"x": 2871,
+				"y": 8009,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0091.png": {
+			"frame": {
+				"x": 4306,
+				"y": 8009,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0092.png": {
+			"frame": {
+				"x": 5741,
+				"y": 8009,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0093.png": {
+			"frame": {
+				"x": 7176,
+				"y": 8009,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0094.png": {
+			"frame": {
+				"x": 8611,
+				"y": 8009,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0095.png": {
+			"frame": {
+				"x": 10046,
+				"y": 8009,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0098.png": {
+			"frame": {
+				"x": 11481,
+				"y": 8009,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0099.png": {
+			"frame": {
+				"x": 12916,
+				"y": 8009,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0101.png": {
+			"frame": {
+				"x": 1,
+				"y": 10011,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0103.png": {
+			"frame": {
+				"x": 1436,
+				"y": 10011,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0106.png": {
+			"frame": {
+				"x": 2871,
+				"y": 10011,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0107.png": {
+			"frame": {
+				"x": 4306,
+				"y": 10011,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0109.png": {
+			"frame": {
+				"x": 5741,
+				"y": 10011,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0110.png": {
+			"frame": {
+				"x": 7176,
+				"y": 10011,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0111.png": {
+			"frame": {
+				"x": 8611,
+				"y": 10011,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0113.png": {
+			"frame": {
+				"x": 10046,
+				"y": 10011,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0114.png": {
+			"frame": {
+				"x": 11481,
+				"y": 10011,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0117.png": {
+			"frame": {
+				"x": 12916,
+				"y": 10011,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0118.png": {
+			"frame": {
+				"x": 1,
+				"y": 12013,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0119.png": {
+			"frame": {
+				"x": 1436,
+				"y": 12013,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0122.png": {
+			"frame": {
+				"x": 2871,
+				"y": 12013,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0124.png": {
+			"frame": {
+				"x": 4306,
+				"y": 12013,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0125.png": {
+			"frame": {
+				"x": 5741,
+				"y": 12013,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0126.png": {
+			"frame": {
+				"x": 7176,
+				"y": 12013,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0129.png": {
+			"frame": {
+				"x": 8611,
+				"y": 12013,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0130.png": {
+			"frame": {
+				"x": 10046,
+				"y": 12013,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0131.png": {
+			"frame": {
+				"x": 11481,
+				"y": 12013,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0132.png": {
+			"frame": {
+				"x": 12916,
+				"y": 12013,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0134.png": {
+			"frame": {
+				"x": 14351,
+				"y": 1,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0135.png": {
+			"frame": {
+				"x": 14351,
+				"y": 2003,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0136.png": {
+			"frame": {
+				"x": 14351,
+				"y": 4005,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0137.png": {
+			"frame": {
+				"x": 14351,
+				"y": 6007,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0138.png": {
+			"frame": {
+				"x": 14351,
+				"y": 8009,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0141.png": {
+			"frame": {
+				"x": 14351,
+				"y": 10011,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0142.png": {
+			"frame": {
+				"x": 14351,
+				"y": 12013,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0143.png": {
+			"frame": {
+				"x": 1,
+				"y": 14015,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0145.png": {
+			"frame": {
+				"x": 1436,
+				"y": 14015,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		},
+		"0146.png": {
+			"frame": {
+				"x": 2871,
+				"y": 14015,
+				"w": 1433,
+				"h": 2000
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1433,
+				"h": 2000
+			},
+			"sourceSize": {
+				"w": 1433,
+				"h": 2000
+			},
+			"title": "Coral Cascade",
+			"description": "Vibrant and lively, like a cascade of coral reefs"
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 15785,
+			"h": 16016
+		},
+		"scale": "1"
+	}
+}
