@@ -76,6 +76,7 @@ function get_component_names($type = "initial")
 </head>
 
 <body>
+    <script type="module" src="/node_modules/pixi.js/dist/pixi.min.js"></script>
     <script type="module" id="app_script">
         import * as structure from "./components/components_common/structure/structure.js";
         import * as component_manager from "./components/component_manager.js";
@@ -94,8 +95,6 @@ function get_component_names($type = "initial")
 
 
     </script>
-
-
 </body>
 
 </html>
