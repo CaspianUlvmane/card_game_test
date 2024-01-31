@@ -50,12 +50,11 @@ function echo_static_import_lines()
     }
 }
 
-function get_component_names($type = "initial")
+function get_component_names()
 {
     global $components;
     $names = [];
     foreach ($components as $component) {
-        if ($component["type"] != $type) continue;
         $names[] = $component["name"];
     }
     return $names;
@@ -76,21 +75,22 @@ function get_component_names($type = "initial")
 </head>
 
 <body>
-    <script type="module" src="/node_modules/pixi.js/dist/pixi.min.js"></script>
+    <script type="module" src="/node_modules/pixi.js/dist/pixi.min.mjs"></script>
     <script type="module" id="app_script">
         import * as structure from "./components/components_common/structure/structure.js";
         import * as component_manager from "./components/component_manager.js";
         <?php echo_static_import_lines(); ?>
-
         let components = [];
 
         <?php
         foreach (get_component_names() as $component_name) {
-            echo "components.push($component_name.component); \n";
+            echo "if($component_name.component !== undefined){
+            components.push($component_name.component);} \n";
         }
         ?>
+        console.log(components);
         components = [...structure.get_components(), ...components]
-
+        console.log(components);
         component_manager.render(components)
 
 

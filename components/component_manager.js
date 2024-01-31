@@ -22,7 +22,6 @@ export function render (components)
 
       if (component.render)
       {
-        verbose && console.log("RENDERING: ", component.dom_id);
         component.render();
       }
     }); 
