@@ -1,38 +1,55 @@
-import * as PIXI from '../../../node_modules/pixi.js/dist/pixi.min.mjs'
+export const component = {
+  prerender: false,
+  render,
+  parentDomID: "bg_box_",
+};
 
-export const component ={
-    prerender: false,
-    render,
+function render() {
+  document.getElementById(component.parentDomID + 1).style.backgroundImage =
+    "URL(../../../media/background/0001.png";
+  setTimeout(() => tick_background(2, 2), 250);
 }
-console.log(PIXI);
-const Application = PIXI.Application;
 
-const app = new Application({
-    antialias: true
-})
+function tick_background(value, parent) {
+  let zeros = 4 - value.toString().length;
+  let imgString = "";
+  console.log(zeros);
+  while (zeros > 0) {
+    imgString += "0";
+    zeros--;
+  }
+  imgString += value.toString();
+  imgString += ".png";
+  imgString = "../../../media/background/" + imgString;
+  console.log(imgString);
+  console.log(document.getElementById(component.parentDomID + parent));
+  document.getElementById(
+    component.parentDomID + parent
+  ).style.backgroundImage = `URL(${imgString})`;
 
-app.renderer.background = "0x000000";
-
-app.renderer.resize(window.innerWidth, window.innerHeight);
-
-document.body.appendChild(app.view)
-
-function render (){
-    console.log("BG _ Rendered");
-    console.log(PIXI);
-    const bg_textures = []
-    for(let i = 1; i < 361; i++ ){
-        let zeros = 4 - i.length
-        let imgString = ""
-        while(zeros > 0){
-            imgString += 0
-            zeros--
-        }
-        const bg_img = PIXI.Texture.from(`${imgString}.png`)
-        bg_textures.push(bg_img)
-    }
-    const background = new PIXI.AnimatedSprite(bg_textures)
-    background.position.set(800, 300)
-    background.scale.set(1, 1)
-    app.stage.addChild(background)
+  value += 2;
+  if (parent === 1) {
+    setTimeout(
+      () =>
+        (document.getElementById(component.parentDomID + 2).style.display =
+          "none"),
+      150
+    );
+    document.getElementById(component.parentDomID + 1).style.display = "flex";
+    parent = 2;
+  } else {
+    setTimeout(
+      () =>
+        (document.getElementById(component.parentDomID + 1).style.display =
+          "none"),
+      150
+    );
+    document.getElementById(component.parentDomID + 2).style.display = "flex";
+    parent = 1;
+  }
+  if (value < 361) {
+    setTimeout(() => tick_background(value, parent), 150);
+  } else {
+    setTimeout(tick_background(1, 1), 150);
+  }
 }
